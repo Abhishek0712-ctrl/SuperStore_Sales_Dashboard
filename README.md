@@ -16,4 +16,9 @@ The objective can be broken down into the following detailed components
 4. Actionable Insights and Recommendations : End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 
+Insight from the dashboard
 
+1. Althrough 2019 the number of sales were less but profit was more in certain months like Feburary, April, May, October and December.
+
+Learning 
+Incorporated data analysis technique, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
